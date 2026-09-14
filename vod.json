@@ -34,8 +34,8 @@
     },
     {
       "name": "U酷",
-      "url": "https://api.ukuapi.com/api.php/provide/vod/",
-      "detail": "https://api.ukuapi.com",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "detail": "https://api.ukuapi88.com",
       "isAdult": false
     },
     {
@@ -70,13 +70,13 @@
     },
     {
       "name": "豪华",
-      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "url": "https://hhzyapi.com/api.php/provide/vod/",
       "detail": "https://hhzyapi.com",
       "isAdult": false
     },
     {
       "name": "极速",
-      "url": "https://jszyapi.com/api.php/provide/vod",
+      "url": "https://jszyapi.com/api.php/provide/vod/",
       "detail": "https://jszyapi.com",
       "isAdult": false
     },
@@ -130,7 +130,7 @@
     },
     {
       "name": "奥斯卡",
-      "url": "https://aosikazy.com/api.php/provide/vod",
+      "url": "https://aosikazy.com/api.php/provide/vod/",
       "detail": "https://aosikazy.com",
       "isAdult": false
     },
@@ -148,7 +148,7 @@
     },
     {
       "name": "森林",
-      "url": "https://slapibf.com/api.php/provide/vod",
+      "url": "https://slapibf.com/api.php/provide/vod/",
       "detail": "https://slapibf.com",
       "isAdult": false
     },
@@ -156,6 +156,12 @@
       "name": "优质资源库",
       "url": "https://api.1080zyku.com/inc/api.php/provide/vod",
       "detail": "https://api.1080zyku.com",
+      "isAdult": false
+    },
+    {
+      "name": "新浪",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "detail": "https://api.xinlangapi.com",
       "isAdult": false
     }
   ]
