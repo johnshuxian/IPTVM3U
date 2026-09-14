@@ -9,6 +9,12 @@
       "isAdult": false
     },
     {
+      "name": "如意",
+      "url": "http://cj.rycjapi.com/api.php/provide/vod/",
+      "detail": "http://cj.rycjapi.com",
+      "isAdult": false 
+    },
+    {
       "name": "360",
       "url": "https://360zy.com/api.php/provide/vod/",
       "detail": "https://360zy.com",
