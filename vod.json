@@ -189,12 +189,6 @@
       "isAdult": false
     },
     {
-      "name": "建安资源",
-      "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
-      "detail": "http://154.219.117.232:9981",
-      "isAdult": false
-    },
-    {
       "name": "金鹰点播",
       "url": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com",
