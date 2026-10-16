@@ -1,360 +1,89 @@
 {
-  "name": "我的源列表",
-  "version": 2,
-  "sources": [
-    {
-      "name": "暴风",
-      "url": "https://bfzyapi.com/api.php/provide/vod/",
-      "detail": "https://bfzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "如意",
-      "url": "https://www.ryzyw.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com",
-      "isAdult": false
-    },
-    {
-      "name": "360",
-      "url": "https://360zy.com/api.php/provide/vod/",
-      "detail": "https://360zy.com",
-      "isAdult": false
-    },
-    {
-      "name": "红牛",
-      "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "detail": "https://www.hongniuzy2.com",
-      "isAdult": false
-    },
-    {
-      "name": "量子",
-      "url": "https://cj.lziapi.com/api.php/provide/vod/",
-      "detail": "https://cj.lziapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "闪电",
-      "url": "https://sdzyapi.com/api.php/provide/vod/",
-      "detail": "https://sdzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "U酷",
-      "url": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "detail": "https://api.ukuapi88.com",
-      "isAdult": false
-    },
-    {
-      "name": "卧龙",
-      "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "detail": "https://collect.wolongzyw.com",
-      "isAdult": false
-    },
-    {
-      "name": "樱花",
-      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "detail": "https://m3u8.apiyhzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "百度",
-      "url": "https://api.apibdzy.com/api.php/provide/vod/",
-      "detail": "https://api.apibdzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "牛牛",
-      "url": "https://api.niuniuzy.me/api.php/provide/vod/",
-      "detail": "https://api.niuniuzy.me",
-      "isAdult": false
-    },
-    {
-      "name": "丫丫",
-      "url": "https://cj.yayazy.net/api.php/provide/vod/",
-      "detail": "https://cj.yayazy.net",
-      "isAdult": false
-    },
-    {
-      "name": "豪华",
-      "url": "https://hhzyapi.com/api.php/provide/vod/",
-      "detail": "https://hhzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "极速",
-      "url": "https://jszyapi.com/api.php/provide/vod/",
-      "detail": "https://jszyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "索尼",
-      "url": "https://suoniapi.com/api.php/provide/vod/",
-      "detail": "https://suoniapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "非凡",
-      "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
-      "detail": "https://cj.ffzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "无尽",
-      "url": "https://api.wujinapi.com/api.php/provide/vod/",
-      "detail": "https://api.wujinapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "虎牙",
-      "url": "https://www.huyaapi.com/api.php/provide/vod/",
-      "detail": "https://www.huyaapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "飘零",
-      "url": "https://p2100.net/api.php/provide/vod/",
-      "detail": "https://p2100.net",
-      "isAdult": false
-    },
-    {
-      "name": "速博",
-      "url": "https://subocaiji.com/api.php/provide/vod/",
-      "detail": "https://subocaiji.com",
-      "isAdult": false
-    },
-    {
-      "name": "魔都",
-      "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
-      "detail": "https://caiji.moduapi.cc",
-      "isAdult": false
-    },
-    {
-      "name": "最大",
-      "url": "https://zuidazy.me/api.php/provide/vod/",
-      "detail": "https://zuidazy.me",
-      "isAdult": false
-    },
-    {
-      "name": "奥斯卡",
-      "url": "https://aosikazy.com/api.php/provide/vod/",
-      "detail": "https://aosikazy.com",
-      "isAdult": true
-    },
-    {
-      "name": "金鹰",
-      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
-      "detail": "https://jyzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "光速",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-      "detail": "https://api.guangsuapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "森林",
-      "url": "https://slapibf.com/api.php/provide/vod/",
-      "detail": "https://slapibf.com",
-      "isAdult": true
-    },
-    {
-      "name": "优质资源库",
-      "url": "https://api.1080zyku.com/inc/api.php/provide/vod",
-      "detail": "https://api.1080zyku.com",
-      "isAdult": false
-    },
-    {
-      "name": "新浪",
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "detail": "https://api.xinlangapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "爱奇艺资源",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "豆瓣资源3",
-      "url": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "detail": "https://dbzy.tv",
-      "isAdult": false
-    },
-    {
-      "name": "红牛备用",
-      "url": "https://www.hongniuzy3.com/api.php/provide/vod",
-      "detail": "https://www.hongniuzy3.com",
-      "isAdult": false
-    },
-    {
-      "name": "金鹰点播",
-      "url": "https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "金鹰云",
-      "url": "https://jyzyapi.com/provide/vod/from/jinyingyun",
-      "detail": "https://jinyingzy.net",
-      "isAdult": false
-    },
-    {
-      "name": "快车资源",
-      "url": "https://caiji.kuaichezy.org/api.php/provide/vod/",
-      "detail": "https://kuaichezy.com",
-      "isAdult": false
-    },
-    {
-      "name": "量子备用",
-      "url": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "detail": "https://cj.lzcaiji.com",
-      "isAdult": false
-    },
-    {
-      "name": "猫眼资源",
-      "url": "https://api.maoyanapi.top/api.php/provide/vod",
-      "detail": "https://www.maoyanzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "茅台资源",
-      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://mtzy.me",
-      "isAdult": false
-    },
-    {
-      "name": "魔都备用",
-      "url": "https://www.mdzyapi.com/api.php/provide/vod",
-      "detail": "https://www.moduzy.net",
-      "isAdult": false
-    },
-    {
-      "name": "优质JSON",
-      "url": "https://api.yzzy-api.com/inc/apijson.php",
-      "detail": "https://1080zyk4.com",
-      "isAdult": false
-    },
-    {
-      "name": "优质JSON点播",
-      "url": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
-      "detail": "https://yzzy.tv",
-      "isAdult": false
-    },
-    {
-      "name": "优质全量",
-      "url": "https://api.yzzy-api.com/inc/api_mac10_all.php",
-      "detail": "https://api.yzzy-api.com",
-      "isAdult": false
-    },
-    {
-      "name": "iKun资源",
-      "url": "https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "CK资源",
-      "url": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me",
-      "isAdult": true
-    },
-    {
-      "name": "辣椒资源",
-      "url": "https://apilj.com/api.php/provide/vod",
-      "detail": "https://apilj.com",
-      "isAdult": true
-    },
-    {
-      "name": "1080资源",
-      "url": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com",
-      "isAdult": false
-    },
-    {
-      "name": "豆瓣资源",
-      "url": "https://dbzy.tv/api.php/provide/vod",
-      "detail": "https://dbzy.tv",
-      "isAdult": false
-    },
-    {
-      "name": "麻豆资源",
-      "url": "http://www.madouse.la/api.php/provide/vod",
-      "detail": "http://www.madouse.la",
-      "isAdult": true
-    },
-    {
-      "name": "猫眼备用",
-      "url": "https://maoyanzy.com/api.php/provide/vod",
-      "detail": "https://maoyanzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "天涯影视",
-      "url": "https://tyyszyapi.com/api.php/provide/vod",
-      "detail": "https://tyyszyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "天涯资源",
-      "url": "https://tyyszy.com/api.php/provide/vod",
-      "detail": "https://tyyszy.com",
-      "isAdult": false
-    },
-    {
-      "name": "无尽备用1",
-      "url": "https://api.wujinapi.me/api.php/provide/vod",
-      "detail": "https://wujinzy.net",
-      "isAdult": false
-    },
-    {
-      "name": "iKun备用",
-      "url": "https://www.ikunzy.com/api.php/provide/vod",
-      "detail": "https://www.ikunzy.com",
-      "isAdult": false
-    },
-    {
-      "name": "OK资源",
-      "url": "https://api.okzyw.net/api.php/provide/vod",
-      "detail": "https://okzyw.cc/index.php/label/help.html",
-      "isAdult": false
-    },
-    {
-      "name": "金鹰通用",
-      "url": "https://jyzyapi.com/api.php/provide/vod",
-      "detail": "https://jyzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "闪电备用",
-      "url": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "detail": "https://xsd.sdzyapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "光速通用",
-      "url": "http://api.guangsuapi.com/api.php/provide/vod/",
-      "detail": "http://api.guangsuapi.com",
-      "isAdult": false
-    },
-    {
-      "name": "无尽备用2",
-      "url": "https://api.wujinapi.net/api.php/provide/vod/",
-      "detail": "https://api.wujinapi.net",
-      "isAdult": false
-    },
-    {
-      "name": "丫丫备用",
-      "url": "https://yayazy2.com/api.php/provide/vod/",
-      "detail": "https://yayazy2.com",
-      "isAdult": false
-    },
-    {
-      "name": "最大备用",
-      "url": "https://zuida.xyz/api.php/provide/vod/",
-      "detail": "https://zuida.xyz",
-      "isAdult": false
-    }
-  ]
+    "sources": [
+        {
+            "name": "暴风",
+            "url": "https://bfzyapi.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "如意",
+            "url": "https://www.ryzyw.com/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "360",
+            "url": "https://360zy.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "量子",
+            "url": "https://cj.lziapi.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "U酷",
+            "url": "https://api.ukuapi88.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "极速",
+            "url": "https://jszyapi.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "非凡",
+            "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "虎牙",
+            "url": "https://www.huyaapi.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "速博",
+            "url": "https://subocaiji.com/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "魔都",
+            "url": "https://caiji.moduapi.cc/api.php/provide/vod/",
+            "isAdult": false
+        },
+        {
+            "name": "金鹰",
+            "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
+            "isAdult": false
+        },
+        {
+            "name": "爱奇艺资源",
+            "url": "https://iqiyizyapi.com/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "红牛备用",
+            "url": "https://www.hongniuzy3.com/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "金鹰点播",
+            "url": "https://jinyingzy.com/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "猫眼资源",
+            "url": "https://api.maoyanapi.top/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "猫眼备用",
+            "url": "https://maoyanzy.com/api.php/provide/vod",
+            "isAdult": false
+        },
+        {
+            "name": "金鹰通用",
+            "url": "https://jyzyapi.com/api.php/provide/vod",
+            "isAdult": false
+        }
+    ]
 }
