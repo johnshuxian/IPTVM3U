@@ -1,13 +1,13 @@
 {
     "sources": [
         {
-            "name": "暴风",
-            "url": "https://bfzyapi.com/api.php/provide/vod/",
+            "name": "如意",
+            "url": "https://www.ryzyw.com/api.php/provide/vod",
             "isAdult": false
         },
         {
-            "name": "如意",
-            "url": "https://www.ryzyw.com/api.php/provide/vod",
+            "name": "暴风",
+            "url": "https://bfzyapi.com/api.php/provide/vod/",
             "isAdult": false
         },
         {
