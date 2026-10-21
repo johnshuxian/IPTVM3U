@@ -94,11 +94,6 @@
       "name": "光速资源",
       "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "isAdult": false
-    },
-    {
-      "name": "ckzy",
-      "url": "https://ckzy.me/api.php/provide/vod/?ac=list",
-      "isAdult": true
     }
   ]
 }
