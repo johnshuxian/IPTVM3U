@@ -94,6 +94,31 @@
       "name": "光速资源",
       "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "isAdult": false
+    },
+    {
+      "name": "创享资源",
+      "url": "https://ys.cxkjg.cn/api/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subocaiji.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "优质资源",
+      "url": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "isAdult": false
     }
   ]
 }
